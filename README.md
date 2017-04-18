@@ -1,6 +1,6 @@
 # Blood-Donation-Drivendata
 Warm Up: Predict Blood Donations (Competition: Hosted By DrivenData) 
-This is a data science based competion hosted by https://www.drivendata.org
+This is a data science based competition hosted by https://www.drivendata.org
 
 Key Points:
  
